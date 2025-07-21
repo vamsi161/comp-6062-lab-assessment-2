@@ -1,0 +1,24 @@
+.levelIndicator{
+    padding: 45px;
+    margin: 15px 0;
+    text-align: center;
+
+}
+.danger{
+    background-color: red;
+}
+.warning{
+    background-color: yellow;
+}
+.safe{
+    background-color: green;
+}
+.unactiveStatus{
+    display: none;
+}
+footer{
+    background-color: #1c72fe;
+    color: #fff;
+    padding: 30px;
+    margin-top: 30px;
+}
